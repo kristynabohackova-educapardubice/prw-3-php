@@ -31,7 +31,7 @@ Každá složka obsahuje:
 | 17 | Základy OOP v PHP | [lekce17_oop](./lekce17_oop) |
 | 18 | Bezpečnost v PHP | [lekce18_bezpecnost](./lekce18_bezpecnost) |
 | 19 | JSON, API a práce s daty | [lekce19_json_api](./lekce19_json_api) |
-| 20 | Závěrečný projekt | [lekce20_zaverecny_projekt](./lekce20_zaverecny_projekt) |
+| 20 | Závěrečný projekt |
 
 ---
 
