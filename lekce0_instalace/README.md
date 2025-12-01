@@ -117,14 +117,5 @@ Pokud vše funguje, uvidíte výpis složek z vašeho DocumentRoot.
 
 ![localhost index](./img/8.png)
 
----
 
-## ✔️ Lekce 0 – Shrnutí
-
-Po dokončení této lekce umíš:
-
-- najít a upravit `httpd.conf`,
-- nastavit vlastní DocumentRoot,
-- pracovat se správnými lomítky `/`,
-- spustit Apache a MySQL,
 - zobrazit projekt na `http://localhost/`.
