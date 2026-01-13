@@ -20,7 +20,7 @@ Otevřete **XAMPP Control Panel** a spusťte:
 
 Oba moduly musí být **zelené**, ve stavu *Running*.
 
-📸 *Ukázka Cloud Panelu (1.png):*
+
 
 ![XAMPP running](./img/1.png)
 
@@ -36,7 +36,6 @@ Apache → Config → Apache (httpd.conf)
 
 ```
 
-📸 *Menu Config (2.png):*
 
 ![Apache config menu](./img/2.png)
 
@@ -46,7 +45,7 @@ Apache → Config → Apache (httpd.conf)
 
 Po kliknutí na „Apache (httpd.conf)“ se otevře konfigurační soubor Apache.
 
-📸 *Ukázka (3.png):*
+
 
 ![httpd.conf](./img/3.png)
 
@@ -62,7 +61,6 @@ Ctrl + F → DocumentRoot
 
 ```
 
-📸 *Vyhledání v konfiguraci (4.png):*
 
 ![DocumentRoot search](./img/4.png)
 
@@ -89,11 +87,11 @@ C:/Users/admin/OneDrive/.../PRW-3-PHP-Git
 
 ```
 
-📸 *Původní verze (5.png):*
+
 
 ![wrong slashes](./img/5.png)
 
-📸 *Opravená verze se správnými lomítky (6.png):*
+
 
 ![correct slashes](./img/6.png)
 
@@ -113,7 +111,7 @@ Po restartu Apache otevřete v prohlížeči:
 
 Pokud vše funguje, uvidíte výpis složek z vašeho DocumentRoot.
 
-📸 *Ukázka funkčního localhostu (8.png):*
+
 
 ![localhost index](./img/8.png)
 
